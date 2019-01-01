@@ -36,3 +36,5 @@ This is done using *select* function again from **dplyr** package.
 This is accomplised by using *arrange* and *group_by* function. The dataset are grouped and arranged by subjectID and activity names. After which, the *summarize_all* function is used to get the mean of all the remaining columns taken one group at a time.
 
 The resulting tidy data set is now exported into a text file names *secondtidy.txt*.
+
+edited test
